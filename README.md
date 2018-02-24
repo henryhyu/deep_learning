@@ -1,2 +1,2 @@
 # mnist_classifier
-using softmax + cnn in PyTorch
+using softmax + cnn in PyTorch (Python 3)
